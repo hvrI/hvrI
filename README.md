@@ -1,4 +1,4 @@
-[![MasterHead](https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v210-n-10-universewatercolors_2.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=42f1f2962b364269972520719aa23378)](https://github.com/hvrrl)
+  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/eb/ef/b0/ebefb0c7a04cf87e3c45169ed185de89.gif">
 
 ### Hi there!
 
