@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F846817536175842929%2F&psig=AOvVaw0w3a40BmqUq72A7Yk1qrVL&ust=1628143982684000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMClj4nblvICFQAAAAAdAAAAABAD">
+[![MasterHead](https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v210-n-10-universewatercolors_2.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=42f1f2962b364269972520719aa23378)](https://github.com/hvrrl)
 
 ### Hi there!
 
