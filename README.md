@@ -18,5 +18,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=hvrrl&bg_color=30,48eacf,544f96&title_color=fff&text_color=fff&border_color=000000">
 <br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hvrrl)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hvrrl)](https://git.io/streak-stats)
 
