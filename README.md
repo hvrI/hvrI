@@ -22,4 +22,5 @@ I'm now diving deeper into a lot more backend programming languages such as C++,
 
 If you have any suggestion or questions, feel free to contact me through any one of these:
 |Discord|hurl#8400|
+|:-:|:-:|
 |Github|hvrrl (here)|
