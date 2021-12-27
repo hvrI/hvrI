@@ -10,13 +10,13 @@ Hello there! I'm hurl and I'm a Python Programmer.
 ***
 
 ## Bio
-I like to code, basically everyday, my top languages are Python & R, or maybe a little bit of SQL. Been a Python Programmer for well over a year now and currently improving my Rust programming skill.
+I like to code, basically everyday, my top languages are Python & C#, or maybe a little bit of SQL. Been a Python Programmer for well over a year now and currently improving my C# and Rust programming skill.
 
 ## Skillset
 | Languages  | Skill level | Extra                                              |
 | -----------| ----------- | -------------------------------------------------- |
 |**Python 3**| Experienced | Been a freelance developer for over a year now.    |     
-|   **R**    | Improving   | Mostly used for data science projects.             |
+|   **C#**   | Improving   | Mostly used for memory editing projects.           |
 | **Rust**   | Improving   | just started recently, still improving. o//        |
 
 If you have any suggestion or questions, feel free to contact me through any one of these:
