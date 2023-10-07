@@ -4,7 +4,7 @@
 Hurl
 </h1>
 <p align="center">
-Hello there! I'm hurl and I'm a Python Programmer.
+Hello there! I'm hurl and I like to code.
 </p>
 
 ***
